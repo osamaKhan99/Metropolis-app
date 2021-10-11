@@ -6,8 +6,8 @@
  ## User Registration
  ![User Registration](./images/user_register.PNG)
 
- ## User Login
- ![User Verify](./images/user_verify.PNG)
+ ## User Email Verification
+ ![User Verify](./images/verify_user.PNG)
 
  ## User Login
  ![User Login](./images/user_login.PNG)
