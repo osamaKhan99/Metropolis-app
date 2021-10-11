@@ -4,4 +4,4 @@
  # Postman APIs ScreenShot
  
  ## Registration
- ![User Registration](/images/user_register.png)
+ ![User Registration](user_register.png)
